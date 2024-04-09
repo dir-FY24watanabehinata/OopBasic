@@ -1,6 +1,5 @@
 package company;
 
-import javax.naming.event.NamespaceChangeListener;
 
 public class ObjectSample {
 
